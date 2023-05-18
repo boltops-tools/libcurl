@@ -24,8 +24,8 @@ Gem::Specification.new do |spec|
   end
   spec.bindir = "exe"
   spec.executables = spec.files.grep(%r{\Aexe/}) { |f| File.basename(f) }
+  # spec.extensions = ["ext/libcurl/extconf.rb"]
   spec.require_paths = ["lib"]
-  spec.extensions = ["ext/extconf.rb"]
 
   # Uncomment to register a new dependency of your gem
   # spec.add_dependency "example-gem", "~> 1.0"
