@@ -3,6 +3,9 @@
 All notable changes to this project will be documented in this file.
 This project *loosely tries* to adhere to [Semantic Versioning](http://semver.org/), even before v1.0.
 
+## [0.2.0] - 2023-05-18
+- update readme
+
 ## [0.1.2] - 2023-05-18
 - configure spec.extensions ext/libcurl/extconf.rb
 
