@@ -8,7 +8,7 @@ Gem::Specification.new do |spec|
   spec.authors = ["Tung Nguyen"]
   spec.email = ["tongueroo@gmail.com"]
 
-  spec.summary = "Gem tells serverlessgems to build the gem package with libcurl"
+  spec.summary = "Tells serverlessgems to build the gem package with libcurl shared libraries for AWS Lambda"
   spec.homepage = "https://github.com/boltops-tools/libcurl"
   spec.license = "MIT"
   spec.required_ruby_version = ">= 2.5.0"
